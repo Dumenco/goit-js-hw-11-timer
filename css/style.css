@@ -1,0 +1,30 @@
+.timer {
+  width: 450px;
+  display: flex;
+  margin: 40px auto;
+  }
+  .field {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 150px;
+    text-align: center;
+    padding: 5px;
+    margin: 0 auto;
+  }
+  
+  .value {
+    font-size: 76px;
+    background-color: blue;
+    color: bisque;
+    border-radius: 25px;
+ }
+
+.label {
+    font-size: 32px;
+    color: rgba(228, 18, 18, 0.979);
+  }
+
+  body {
+    background-color: rgb(69, 235, 18);
+  }
